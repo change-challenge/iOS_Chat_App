@@ -1,0 +1,6 @@
+framework module Pods_iOSTalk {
+  umbrella header "Pods-iOSTalk-umbrella.h"
+
+  export *
+  module * { export * }
+}
